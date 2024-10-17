@@ -22,7 +22,9 @@ namespace UnitTesting_Project_V1.Tests
                 // Assert
                 if (result == "Pikachu")
                 {
-                    Console.WriteLine("Test Passed");
+                    Console.WriteLine("Test Passed \n");
+                    Console.WriteLine(result);
+                    Console.ReadKey();
                 }
                 else
                 {
