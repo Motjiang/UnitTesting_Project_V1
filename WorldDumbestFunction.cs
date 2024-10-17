@@ -8,7 +8,7 @@ namespace UnitTesting_Project_V1
 {
     public class WorldDumbestFunction
     {
-        public string ReturnsPikachu(int num)
+        public string ReturnsPikachuIfZero(int num)
         {
             if(num == 0)
             {
